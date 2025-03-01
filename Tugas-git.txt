@@ -1,0 +1,3 @@
+Tugas-git
+Ini adalah file untuk simulasi Tugas-git.
+Belajar Git itu menyenangkan!
