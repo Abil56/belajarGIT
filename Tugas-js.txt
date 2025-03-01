@@ -1,0 +1,3 @@
+Tugas-js
+Ini adalah file untuk simulasi Tugas-js.
+Belajar js itu menyenangkan!
