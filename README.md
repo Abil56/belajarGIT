@@ -34,4 +34,7 @@
     
 **7. Push ke GitHub**  
     - git push origin main  
+<<<<<<< HEAD
 
+=======
+>>>>>>> 52a705cd2e8e4a5d8acc9a9b5b9ec850adf941d7
